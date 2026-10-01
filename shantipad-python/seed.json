@@ -1,0 +1,846 @@
+{
+  "hospital": {
+    "name": {
+      "en": "Shantipad",
+      "hi": "शांतिपद",
+      "mr": "शांतिपद"
+    },
+    "address": {
+      "en": "Murarka College Road, Shegaon, Buldhana 444203, Maharashtra",
+      "hi": "मुरारका कॉलेज रोड, शेगांव, बुलढाणा 444203, महाराष्ट्र",
+      "mr": "मुरारका कॉलेज रोड, शेगाव, बुलढाणा 444203, महाराष्ट्र"
+    },
+    "about": {
+      "en": "Shantipad Children's & Dental Hospital in Shegaon brings together pediatric and dental care. The hospital offers newborn care, pediatric consultation, dental treatments and 24-hour emergency care.",
+      "hi": "शेगांव में शांतिपद बाल एवं दंत चिकित्सालय बाल चिकित्सा और दंत चिकित्सा सेवाएँ प्रदान करता है। यहाँ नवजात शिशु देखभाल, बाल परामर्श, दंत उपचार और 24 घंटे आपातकालीन सेवा उपलब्ध है।",
+      "mr": "शेगावमधील शांतिपद बाल व दंत रुग्णालयात बालरोग आणि दंत चिकित्सा सेवा एकत्र उपलब्ध आहेत. येथे नवजात शिशूंची काळजी, बालरोग सल्ला, दंत उपचार आणि 24 तास आपत्कालीन सेवा दिली जाते."
+    },
+    "phone": "+919405644319",
+    "email": "",
+    "maps_url": "",
+    "emergency_24h": true,
+    "logo_url": "/static/assets/hospital-logo.jpeg",
+    "hero_image_url": "https://images.unsplash.com/photo-1778276551433-75420636007d?auto=format&fit=crop&w=2000&q=85",
+    "certification": {
+      "title": {
+        "en": "NABH Entry-Level Certified (SHCO)",
+        "hi": "NABH एंट्री-लेवल प्रमाणित (SHCO)",
+        "mr": "NABH एंट्री-लेव्हल प्रमाणित (SHCO)"
+      },
+      "body": {
+        "en": "Certified scope: Dentistry, Paediatrics and Blood Transfusion Services.",
+        "hi": "प्रमाणित सेवाएँ: दंत चिकित्सा, बाल चिकित्सा और रक्त आधान सेवाएँ।",
+        "mr": "प्रमाणित सेवा: दंत चिकित्सा, बालरोग आणि रक्त संक्रमण सेवा."
+      },
+      "number": "PESHCO-2026-12586",
+      "valid_from": "2026-08-04",
+      "valid_to": "2028-08-03",
+      "image_file": "certification/nabh-entry-level.jpeg",
+      "certificate_file": "certification/nabh-certificate.pdf"
+    }
+  },
+  "doctors": [
+    {
+      "name": {
+        "en": "Dr. Akhilesh Kalawate",
+        "hi": "डॉ. अखिलेश कळावते",
+        "mr": "डॉ. अखिलेश कळावते"
+      },
+      "qualifications": "MBBS, DCH (Gold Medal)",
+      "experience": {
+        "en": "15 years of experience; DNB registrar",
+        "hi": "15 वर्षों का अनुभव; DNB रजिस्ट्रार",
+        "mr": "15 वर्षांचा अनुभव; DNB रजिस्ट्रार"
+      },
+      "bio": {
+        "en": "Pediatrician and newborn care specialist.",
+        "hi": "बाल रोग और नवजात शिशु विशेषज्ञ।",
+        "mr": "बालरोग व नवजात शिशू तज्ज्ञ."
+      },
+      "consultation": {
+        "en": "Please call to confirm availability.",
+        "hi": "उपलब्धता की पुष्टि के लिए कॉल करें।",
+        "mr": "उपलब्धता निश्चित करण्यासाठी कॉल करा."
+      },
+      "specialty": "child",
+      "registration": "",
+      "photo_url": ""
+    },
+    {
+      "name": {
+        "en": "Dr. Sonal Akhilesh Kalawate",
+        "hi": "डॉ. सोनल अखिलेश कळावते",
+        "mr": "डॉ. सोनल अखिलेश कळावते"
+      },
+      "qualifications": "BDS",
+      "experience": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      },
+      "bio": {
+        "en": "Dental and oral care.",
+        "hi": "दंत और मुख चिकित्सा।",
+        "mr": "दंत व मुख चिकित्सा."
+      },
+      "consultation": {
+        "en": "Please call to confirm availability.",
+        "hi": "उपलब्धता की पुष्टि के लिए कॉल करें।",
+        "mr": "उपलब्धता निश्चित करण्यासाठी कॉल करा."
+      },
+      "specialty": "dental",
+      "registration": "",
+      "photo_url": ""
+    }
+  ],
+  "services": [
+    {
+      "department": "child",
+      "name": {
+        "en": "Premature baby unit",
+        "hi": "समय से पहले जन्मे बच्चों की देखभाल",
+        "mr": "कमी दिवसांच्या नवजात शिशूंची काळजी"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Intensive sick baby care unit",
+        "hi": "गंभीर नवजात शिशुओं की गहन देखभाल",
+        "mr": "गंभीर नवजात शिशूंची अतिदक्षता सेवा"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Epilepsy clinic",
+        "hi": "मिर्गी क्लिनिक",
+        "mr": "अपस्मार उपचार"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Newborn jaundice treatment",
+        "hi": "नवजात शिशु के पीलिया का उपचार",
+        "mr": "नवजात शिशूंच्या काविळीचे उपचार"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Childhood asthma care",
+        "hi": "बच्चों के अस्थमा का उपचार",
+        "mr": "बाल दम्याचे उपचार"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Well-baby clinic",
+        "hi": "स्वस्थ शिशु क्लिनिक",
+        "mr": "निरोगी शिशू कक्ष"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Vaccination",
+        "hi": "टीकाकरण",
+        "mr": "लसीकरण"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "child",
+      "name": {
+        "en": "Outpatient consultation",
+        "hi": "बाह्य रोगी परामर्श",
+        "mr": "बाह्यरुग्ण सल्ला"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Dental and oral diagnosis",
+        "hi": "दाँत और मुख रोग का निदान",
+        "mr": "दंत व मुख रोग निदान"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Tooth-coloured fillings",
+        "hi": "दाँतों के रंग की फिलिंग",
+        "mr": "दातांच्या रंगाचे फिलिंग"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Dental X-rays",
+        "hi": "दंत एक्स-रे",
+        "mr": "दंत एक्स-रे"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Root canal treatment",
+        "hi": "रूट कैनाल उपचार",
+        "mr": "रूट कॅनल उपचार"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Smile designing",
+        "hi": "स्माइल डिजाइनिंग",
+        "mr": "स्माइल डिझाइनिंग"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Child dental care",
+        "hi": "बच्चों की दंत चिकित्सा",
+        "mr": "बाल दंत चिकित्सा"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Ultrasonic scaling and polishing",
+        "hi": "अल्ट्रासोनिक स्केलिंग और पॉलिशिंग",
+        "mr": "अल्ट्रासोनिक स्केलिंग आणि पॉलिशिंग"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Gum treatment",
+        "hi": "मसूड़ों का उपचार",
+        "mr": "हिरड्यांचे उपचार"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Metal and ceramic crowns",
+        "hi": "मेटल और सिरेमिक क्राउन",
+        "mr": "मेटल व सिरॅमिक क्राउन"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Fixed teeth replacement",
+        "hi": "स्थायी कृत्रिम दाँत",
+        "mr": "स्थायी कृत्रिम दात"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Removable partial and complete dentures",
+        "hi": "निकालने योग्य आंशिक और पूर्ण बत्तीसी",
+        "mr": "काढता येणारी अंशतः आणि पूर्ण कवळी"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "department": "dental",
+      "name": {
+        "en": "Oral cancer diagnosis and surgery",
+        "hi": "मुख कैंसर का निदान और शल्य चिकित्सा",
+        "mr": "मुख कर्करोग निदान व शल्य चिकित्सा"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    }
+  ],
+  "facilities": [
+    {
+      "name": {
+        "en": "Pathology services",
+        "hi": "पैथोलॉजी सेवाएँ",
+        "mr": "पॅथॉलॉजी सेवा"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Round-the-clock monitoring for critically ill infants",
+        "hi": "गंभीर शिशुओं की 24 घंटे निगरानी",
+        "mr": "गंभीर शिशूंवर 24 तास लक्ष"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Blood oxygen monitoring",
+        "hi": "रक्त में ऑक्सीजन की निगरानी",
+        "mr": "रक्तातील ऑक्सिजनची तपासणी"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    },
+    {
+      "name": {
+        "en": "24-hour oxygen, CPAP and ventilator support",
+        "hi": "24 घंटे ऑक्सीजन, CPAP और वेंटिलेटर सहायता",
+        "mr": "24 तास ऑक्सिजन, CPAP व व्हेंटिलेटर सुविधा"
+      },
+      "description": {
+        "en": "",
+        "hi": "",
+        "mr": ""
+      }
+    }
+  ],
+  "partners": [
+    "MJPJAY",
+    "PMJAY",
+    "Medi Assist",
+    "Bajaj Allianz",
+    "Care / Religare",
+    "ICICI Lombard",
+    "Universal Sompo",
+    "Central Railway",
+    "Plunes",
+    "Plunes / Magma HDI",
+    "Plunes / Aditya Birla",
+    "Visit India Pvt. Ltd.",
+    "Navi"
+  ],
+  "appointments": [
+    "+919326543972",
+    "+919699853928",
+    "+918459737894"
+  ],
+  "hours": [
+    {
+      "label": {
+        "en": "Monday–Saturday",
+        "hi": "सोमवार–शनिवार",
+        "mr": "सोमवार–शनिवार"
+      },
+      "times": {
+        "en": "9:30 AM–4:00 PM\n6:00 PM–8:00 PM",
+        "hi": "सुबह 9:30–शाम 4:00\nशाम 6:00–रात 8:00",
+        "mr": "सकाळी 9:30–सायंकाळी 4:00\nसायंकाळी 6:00–रात्री 8:00"
+      },
+      "note": {
+        "en": "Lunch break: 12:00 PM–1:00 PM",
+        "hi": "भोजन का समय: दोपहर 12:00–1:00",
+        "mr": "जेवणाची सुट्टी: दुपारी 12:00–1:00"
+      }
+    },
+    {
+      "label": {
+        "en": "Sunday",
+        "hi": "रविवार",
+        "mr": "रविवार"
+      },
+      "times": {
+        "en": "9:30 AM–4:00 PM\n6:00 PM–8:00 PM",
+        "hi": "सुबह 9:30–शाम 4:00\nशाम 6:00–रात 8:00",
+        "mr": "सकाळी 9:30–सायंकाळी 4:00\nसायंकाळी 6:00–रात्री 8:00"
+      },
+      "note": {
+        "en": "Lunch break: 12:00 PM–1:00 PM",
+        "hi": "भोजन का समय: दोपहर 12:00–1:00",
+        "mr": "जेवणाची सुट्टी: दुपारी 12:00–1:00"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": {
+        "en": "How do I book an appointment?",
+        "hi": "अपॉइंटमेंट कैसे बुक करें?",
+        "mr": "भेट कशी ठरवावी?"
+      },
+      "answer": {
+        "en": "Use Call to book to choose an appointment number. The hospital will confirm your department and consultation time.",
+        "hi": "अपॉइंटमेंट नंबर चुनने के लिए बुकिंग बटन दबाएँ। अस्पताल विभाग और परामर्श का समय सुनिश्चित करेगा।",
+        "mr": "नोंदणी बटणावरून फोन नंबर निवडा. रुग्णालय विभाग आणि भेटीची वेळ निश्चित करेल."
+      }
+    },
+    {
+      "question": {
+        "en": "Is emergency care available?",
+        "hi": "क्या आपातकालीन सेवा उपलब्ध है?",
+        "mr": "आपत्कालीन सेवा उपलब्ध आहे का?"
+      },
+      "answer": {
+        "en": "Emergency care is available 24 hours. Routine consultations follow the OPD schedule.",
+        "hi": "आपातकालीन सेवा 24 घंटे उपलब्ध है। नियमित परामर्श ओपीडी के समय पर होते हैं।",
+        "mr": "आपत्कालीन सेवा 24 तास उपलब्ध आहे. नियमित सल्ला ओपीडीच्या वेळेत दिला जातो."
+      }
+    },
+    {
+      "question": {
+        "en": "How do cashless services work?",
+        "hi": "कैशलेस सेवा कैसे मिलती है?",
+        "mr": "कॅशलेस सेवा कशी मिळते?"
+      },
+      "answer": {
+        "en": "Contact the hospital to confirm your scheme or policy's eligibility and approval before admission.",
+        "hi": "भर्ती से पहले अपनी योजना या पॉलिसी की पात्रता और स्वीकृति अस्पताल से सुनिश्चित करें।",
+        "mr": "दाखल होण्यापूर्वी आपल्या योजनेची किंवा पॉलिसीची पात्रता आणि मंजुरी रुग्णालयाशी निश्चित करा."
+      }
+    }
+  ],
+  "copy": {
+    "en": {
+      "hospitalLine": "Hospital number",
+      "emergency": "24-hour emergency care",
+      "opd": "OPD hours",
+      "weekday": "Monday–Saturday",
+      "sunday": "Sunday",
+      "morning": "9:30 AM–4:00 PM",
+      "evening": "6:00 PM–8:00 PM",
+      "bookingIntro": "Choose an appointment number to call. Please confirm the department, date, and consultation time.",
+      "cashlessTitle": "Cashless services",
+      "cashlessIntro": "Cashless services are available for the following schemes and insurers. Please confirm eligibility and approval with the hospital before admission.",
+      "certTitle": "NABH Entry-Level Certified (SHCO)",
+      "certBody": "Certified scope: Dentistry, Paediatrics and Blood Transfusion Services.",
+      "brochure": "View hospital brochure",
+      "servicesTitle": "Dental services",
+      "addressText": "Bhairav Chowk, Shegaon, Maharashtra",
+      "hospital": "Shantipad",
+      "descriptor": "CHILDREN’S & DENTAL HOSPITAL",
+      "location": "Shegaon, Maharashtra",
+      "top": "A little care. A lifetime of smiles.",
+      "demo": "",
+      "call": "Call to book",
+      "menu": "Open navigation",
+      "close": "Close",
+      "language": "Choose language",
+      "eyebrow": "FOR LITTLE ONES. FOR EVERY SMILE.",
+      "hero": "Shantipad Children’s & Dental Hospital",
+      "tagline": "Healthy children.\nHappy smiles.",
+      "intro": "Child care and dental care, together in Shegaon. A place to begin your family’s next chapter of care.",
+      "explore": "Explore our care",
+      "meet": "Meet our doctors",
+      "learn": "Explore",
+      "stock": "Illustrative stock photograph",
+      "careLabel": "TWO SPECIALTIES. ONE PLACE.",
+      "careTitle": "Care for their today.\nConfidence for tomorrow.",
+      "careIntro": "Pediatric and dental services for your family. Call to arrange your visit.",
+      "child": "Child care",
+      "dental": "Dental care",
+      "childDesc": "A dedicated child specialist for your little one’s care.",
+      "dentalDesc": "A dedicated dentist for your dental care.",
+      "childLink": "Explore child care",
+      "dentalLink": "Explore dental care",
+      "childTag": "FOR YOUR LITTLE ONE",
+      "dentalTag": "FOR YOUR SMILE",
+      "together": "Good care starts with a conversation.",
+      "togetherBody": "Have a question about which doctor to visit? Contact the hospital to discuss your appointment.",
+      "localLabel": "ROOTED IN SHEGAON",
+      "localTitle": "Closer to home.\nCloser to care.",
+      "localBody": "Shantipad brings child care and dental care together in Shegaon, Maharashtra. Discover our two departments and plan a visit with the right specialist.",
+      "aboutLink": "Get to know Shantipad",
+      "doctorsLabel": "THE PEOPLE BEHIND YOUR CARE",
+      "doctorsTitle": "Your care team.",
+      "doctorsIntro": "Meet the child specialist and dentist at Shantipad.",
+      "namePending": "Doctor’s name to be added",
+      "credentialsPending": "Qualifications and consultation timings will be added after confirmation.",
+      "profilePending": "Profile details coming soon",
+      "photoPending": "Doctor photo coming soon",
+      "faqLabel": "BEFORE YOUR VISIT",
+      "faqTitle": "A few things you may be wondering.",
+      "visitLabel": "LET’S PLAN YOUR VISIT",
+      "visitTitle": "Your next step to care\nstarts with a call.",
+      "visitBody": "Speak with the hospital to arrange a child care or dental appointment.",
+      "footerLine": "For little ones. For every smile.",
+      "footerNav": "Explore",
+      "footerCare": "Our departments",
+      "footerContact": "Visit us",
+      "rights": "Shantipad Children’s & Dental Hospital.",
+      "previewNote": "",
+      "aboutTitle": "A place for your family’s care.",
+      "aboutIntro": "Children’s care and dental care, together in the heart of Shegaon.",
+      "aboutBody": "Shantipad Children’s & Dental Hospital brings two areas of care under one name: a child specialist and a dentist. This is where you can get to know each department and plan your visit.",
+      "aboutSmall": "Our hospital",
+      "deptChildTitle": "For the little person\nwho means everything.",
+      "deptDentalTitle": "A little care for\nevery smile.",
+      "deptChildBody": "Connect with Shantipad’s child specialist and arrange your child’s consultation by phone.",
+      "deptDentalBody": "Connect with Shantipad’s dentist and arrange your dental consultation by phone.",
+      "deptInfoTitle": "Let’s find the right care.",
+      "deptInfoBody": "For information about available services, age groups treated, or a specific consultation, please speak with the hospital.",
+      "confirmedSoon": "Please contact the hospital for more information.",
+      "prepareTitle": "Before you visit",
+      "doctorPageTitle": "Get to know your doctors.",
+      "doctorPageBody": "Get to know the specialists at Shantipad.",
+      "contactTitle": "We look forward\nto hearing from you.",
+      "contactIntro": "Appointments are booked over the phone. Contact the hospital to confirm availability and plan your visit.",
+      "phoneLabel": "Phone appointments",
+      "phonePending": "Phone number coming soon",
+      "addressLabel": "Our location",
+      "addressPending": "Full address to be confirmed",
+      "hoursLabel": "Consultation hours",
+      "hoursPending": "Timings to be confirmed",
+      "mapLabel": "Directions",
+      "mapPending": "Map link will be added with the verified address.",
+      "bookingTitle": "Booking by phone",
+      "dialogTitle": "Appointments by phone",
+      "dialogBody": "The hospital’s phone number hasn’t been provided yet. Calling will be available here once the verified number is added.",
+      "okay": "Got it",
+      "back": "Back to home",
+      "lunch": "Lunch break: 12:00 PM–1:00 PM",
+      "serviceHeading": "Care available at Shantipad",
+      "facilitiesHeading": "Hospital facilities",
+      "certNumber": "Certificate",
+      "certValidity": "Validity",
+      "viewCertificate": "View certificate",
+      "experienceLabel": "Experience",
+      "registrationLabel": "Registration",
+      "hoursNote": "Please confirm your doctor's availability when booking.",
+      "galleryHeading": "Hospital photos",
+      "emptyServices": "Please call for department information.",
+      "errorTitle": "We couldn't load the hospital information.",
+      "errorBody": "Please try again in a moment.",
+      "retry": "Try again",
+      "heroImageAlt": "A mother and her young child",
+      "heroImageCaption": "Illustrative stock photograph"
+    },
+    "hi": {
+      "hospitalLine": "अस्पताल का नंबर",
+      "emergency": "24 घंटे आपातकालीन सेवा",
+      "opd": "ओपीडी का समय",
+      "weekday": "सोमवार–शनिवार",
+      "sunday": "रविवार",
+      "morning": "सुबह 9:30–शाम 4:00",
+      "evening": "शाम 6:00–रात 8:00",
+      "bookingIntro": "कॉल करने के लिए अपॉइंटमेंट नंबर चुनें। विभाग, तारीख और परामर्श का समय सुनिश्चित करें।",
+      "cashlessTitle": "कैशलेस सेवाएँ",
+      "cashlessIntro": "निम्नलिखित योजनाओं और बीमा कंपनियों के लिए कैशलेस सेवाएँ उपलब्ध हैं। भर्ती से पहले पात्रता और स्वीकृति अस्पताल से सुनिश्चित करें।",
+      "certTitle": "NABH एंट्री-लेवल प्रमाणित (SHCO)",
+      "certBody": "प्रमाणित सेवाएँ: दंत चिकित्सा, बाल चिकित्सा और रक्त आधान सेवाएँ।",
+      "brochure": "अस्पताल की विवरणिका देखें",
+      "servicesTitle": "दंत चिकित्सा सेवाएँ",
+      "addressText": "भैरव चौक, शेगांव, महाराष्ट्र",
+      "hospital": "शांतिपद",
+      "descriptor": "बाल एवं दंत चिकित्सालय",
+      "location": "शेगांव, महाराष्ट्र",
+      "top": "थोड़ी देखभाल। जीवन भर की मुस्कान।",
+      "demo": "",
+      "call": "बुकिंग के लिए कॉल करें",
+      "menu": "मेन्यू खोलें",
+      "close": "बंद करें",
+      "language": "भाषा चुनें",
+      "eyebrow": "बच्चों के लिए। हर मुस्कान के लिए।",
+      "hero": "शांतिपद बाल एवं दंत चिकित्सालय",
+      "tagline": "स्वस्थ बच्चे।\nखिलती मुस्कान।",
+      "intro": "शेगांव में बाल चिकित्सा और दंत चिकित्सा, एक ही जगह। आपके परिवार की देखभाल की शुरुआत यहीं से।",
+      "explore": "हमारी सेवाएँ देखें",
+      "meet": "हमारे डॉक्टर",
+      "learn": "और जानें",
+      "stock": "प्रतीकात्मक स्टॉक तस्वीर",
+      "careLabel": "दो विशेषज्ञताएँ। एक जगह।",
+      "careTitle": "आज की देखभाल।\nकल का विश्वास।",
+      "careIntro": "आपके परिवार के लिए बाल चिकित्सा और दंत चिकित्सा सेवाएँ। मुलाकात तय करने के लिए कॉल करें।",
+      "child": "बाल चिकित्सा",
+      "dental": "दंत चिकित्सा",
+      "childDesc": "आपके बच्चे की देखभाल के लिए बाल रोग विशेषज्ञ।",
+      "dentalDesc": "आपके दाँतों की देखभाल के लिए दंत चिकित्सक।",
+      "childLink": "बाल चिकित्सा जानें",
+      "dentalLink": "दंत चिकित्सा जानें",
+      "childTag": "आपके नन्हे-मुन्ने के लिए",
+      "dentalTag": "आपकी मुस्कान के लिए",
+      "together": "अच्छी देखभाल की शुरुआत बातचीत से होती है।",
+      "togetherBody": "किस डॉक्टर से मिलना चाहिए? अपॉइंटमेंट के बारे में अस्पताल से बात करें।",
+      "localLabel": "शेगांव में आपके पास",
+      "localTitle": "घर के करीब।\nदेखभाल के करीब।",
+      "localBody": "शांतिपद में शेगांव, महाराष्ट्र में बाल चिकित्सा और दंत चिकित्सा एक साथ उपलब्ध हैं। हमारे दोनों विभागों के बारे में जानें और अपनी मुलाकात तय करें।",
+      "aboutLink": "शांतिपद के बारे में जानें",
+      "doctorsLabel": "आपकी देखभाल करने वाले",
+      "doctorsTitle": "आपकी देखभाल करने वाले डॉक्टर।",
+      "doctorsIntro": "शांतिपद के बाल रोग विशेषज्ञ और दंत चिकित्सक से परिचित हों।",
+      "namePending": "डॉक्टर का नाम जल्द जोड़ा जाएगा",
+      "credentialsPending": "पुष्टि के बाद योग्यता और परामर्श का समय जोड़ा जाएगा।",
+      "profilePending": "परिचय जल्द उपलब्ध होगा",
+      "photoPending": "डॉक्टर की तस्वीर जल्द आएगी",
+      "faqLabel": "आने से पहले",
+      "faqTitle": "आपके कुछ सवालों के जवाब।",
+      "visitLabel": "अपनी मुलाकात तय करें",
+      "visitTitle": "देखभाल की अगली शुरुआत\nएक कॉल से।",
+      "visitBody": "बाल चिकित्सा या दंत चिकित्सा अपॉइंटमेंट के लिए अस्पताल से बात करें।",
+      "footerLine": "बच्चों के लिए। हर मुस्कान के लिए।",
+      "footerNav": "जानें",
+      "footerCare": "हमारे विभाग",
+      "footerContact": "हमसे मिलें",
+      "rights": "शांतिपद बाल एवं दंत चिकित्सालय।",
+      "previewNote": "",
+      "aboutTitle": "आपके परिवार की देखभाल का स्थान।",
+      "aboutIntro": "शेगांव में बाल चिकित्सा और दंत चिकित्सा, एक साथ।",
+      "aboutBody": "शांतिपद बाल एवं दंत चिकित्सालय में दो विशेषज्ञताएँ हैं: बाल रोग विशेषज्ञ और दंत चिकित्सक। यहाँ आप दोनों विभागों को जान सकते हैं और अपनी मुलाकात तय कर सकते हैं।",
+      "aboutSmall": "हमारा अस्पताल",
+      "deptChildTitle": "आपके नन्हे-मुन्ने\nकी देखभाल के लिए।",
+      "deptDentalTitle": "हर मुस्कान के लिए\nथोड़ी देखभाल।",
+      "deptChildBody": "शांतिपद के बाल रोग विशेषज्ञ से परामर्श के लिए फोन पर अपॉइंटमेंट तय करें।",
+      "deptDentalBody": "शांतिपद के दंत चिकित्सक से परामर्श के लिए फोन पर अपॉइंटमेंट तय करें।",
+      "deptInfoTitle": "सही देखभाल चुनें।",
+      "deptInfoBody": "उपलब्ध सेवाओं, आयु वर्ग या किसी विशेष परामर्श की जानकारी के लिए अस्पताल से बात करें।",
+      "confirmedSoon": "अधिक जानकारी के लिए अस्पताल से संपर्क करें।",
+      "prepareTitle": "आने से पहले",
+      "doctorPageTitle": "अपने डॉक्टरों को जानें।",
+      "doctorPageBody": "शांतिपद के विशेषज्ञों को जानें।",
+      "contactTitle": "आपसे बात करने\nकी प्रतीक्षा है।",
+      "contactIntro": "अपॉइंटमेंट फोन पर बुक होते हैं। उपलब्धता जानने और मुलाकात तय करने के लिए अस्पताल से संपर्क करें।",
+      "phoneLabel": "फोन पर अपॉइंटमेंट",
+      "phonePending": "फोन नंबर जल्द उपलब्ध होगा",
+      "addressLabel": "हमारा पता",
+      "addressPending": "पूरे पते की पुष्टि बाकी है",
+      "hoursLabel": "परामर्श का समय",
+      "hoursPending": "समय की पुष्टि बाकी है",
+      "mapLabel": "दिशा-निर्देश",
+      "mapPending": "सत्यापित पते के साथ मैप लिंक जोड़ा जाएगा।",
+      "bookingTitle": "फोन पर बुकिंग",
+      "dialogTitle": "फोन पर अपॉइंटमेंट",
+      "dialogBody": "अस्पताल का फोन नंबर अभी उपलब्ध नहीं है। सत्यापित नंबर जुड़ने के बाद यहाँ से कॉल कर सकेंगे।",
+      "okay": "ठीक है",
+      "back": "होम पर वापस",
+      "lunch": "भोजन का समय: दोपहर 12:00–1:00",
+      "serviceHeading": "शांतिपद में उपलब्ध सेवाएँ",
+      "facilitiesHeading": "अस्पताल की सुविधाएँ",
+      "certNumber": "प्रमाणपत्र",
+      "certValidity": "वैधता",
+      "viewCertificate": "प्रमाणपत्र देखें",
+      "experienceLabel": "अनुभव",
+      "registrationLabel": "पंजीकरण",
+      "hoursNote": "बुकिंग करते समय अपने डॉक्टर की उपलब्धता सुनिश्चित करें।",
+      "galleryHeading": "अस्पताल की तस्वीरें",
+      "emptyServices": "विभाग की जानकारी के लिए कॉल करें।",
+      "errorTitle": "अस्पताल की जानकारी लोड नहीं हो सकी।",
+      "errorBody": "कृपया थोड़ी देर में फिर से कोशिश करें।",
+      "retry": "फिर से कोशिश करें",
+      "heroImageAlt": "माँ और उनका छोटा बच्चा",
+      "heroImageCaption": "प्रतीकात्मक स्टॉक तस्वीर"
+    },
+    "mr": {
+      "hospitalLine": "रुग्णालयाचा नंबर",
+      "emergency": "24 तास आपत्कालीन सेवा",
+      "opd": "ओपीडीच्या वेळा",
+      "weekday": "सोमवार–शनिवार",
+      "sunday": "रविवार",
+      "morning": "सकाळी 9:30–सायंकाळी 4:00",
+      "evening": "सायंकाळी 6:00–रात्री 8:00",
+      "bookingIntro": "कॉल करण्यासाठी भेट नोंदणीचा नंबर निवडा. विभाग, तारीख आणि भेटीची वेळ निश्चित करा.",
+      "cashlessTitle": "कॅशलेस सेवा",
+      "cashlessIntro": "खालील योजना आणि विमा कंपन्यांसाठी कॅशलेस सेवा उपलब्ध आहेत. दाखल होण्यापूर्वी पात्रता आणि मंजुरी रुग्णालयाशी निश्चित करा.",
+      "certTitle": "NABH एंट्री-लेव्हल प्रमाणित (SHCO)",
+      "certBody": "प्रमाणित सेवा: दंत चिकित्सा, बालरोग आणि रक्त संक्रमण सेवा.",
+      "brochure": "रुग्णालयाचे माहितीपत्रक पहा",
+      "servicesTitle": "दंत चिकित्सा सेवा",
+      "addressText": "भैरव चौक, शेगाव, महाराष्ट्र",
+      "hospital": "शांतिपद",
+      "descriptor": "बाल व दंत रुग्णालय",
+      "location": "शेगाव, महाराष्ट्र",
+      "top": "थोडी काळजी. आयुष्यभराचे हास्य.",
+      "demo": "",
+      "call": "नोंदणीसाठी कॉल करा",
+      "menu": "मेन्यू उघडा",
+      "close": "बंद करा",
+      "language": "भाषा निवडा",
+      "eyebrow": "चिमुकल्यांसाठी. प्रत्येक हास्यासाठी.",
+      "hero": "शांतिपद बाल व दंत रुग्णालय",
+      "tagline": "निरोगी मुले.\nआनंदी हास्य.",
+      "intro": "शेगावमध्ये बालरोग आणि दंत चिकित्सा एकाच ठिकाणी. आपल्या कुटुंबाच्या काळजीची सुरुवात इथून.",
+      "explore": "आमचे विभाग पहा",
+      "meet": "आमचे डॉक्टर",
+      "learn": "अधिक जाणून घ्या",
+      "stock": "प्रातिनिधिक स्टॉक छायाचित्र",
+      "careLabel": "दोन विशेषज्ञता. एक ठिकाण.",
+      "careTitle": "आजची काळजी.\nउद्याचा विश्वास.",
+      "careIntro": "आपल्या कुटुंबासाठी बालरोग आणि दंत चिकित्सा सेवा. भेट ठरवण्यासाठी कॉल करा.",
+      "child": "बालरोग विभाग",
+      "dental": "दंत विभाग",
+      "childDesc": "आपल्या चिमुकल्याच्या काळजीसाठी बालरोग तज्ज्ञ.",
+      "dentalDesc": "आपल्या दातांच्या काळजीसाठी दंत चिकित्सक.",
+      "childLink": "बालरोग विभाग जाणून घ्या",
+      "dentalLink": "दंत विभाग जाणून घ्या",
+      "childTag": "आपल्या चिमुकल्यासाठी",
+      "dentalTag": "आपल्या हास्यासाठी",
+      "together": "चांगल्या काळजीची सुरुवात संवादातून होते.",
+      "togetherBody": "कोणत्या डॉक्टरांना भेटावे? आपल्या भेटीबद्दल रुग्णालयाशी संपर्क साधा.",
+      "localLabel": "शेगावमध्ये आपल्या जवळ",
+      "localTitle": "घराच्या जवळ.\nकाळजीच्या जवळ.",
+      "localBody": "शांतिपद येथे शेगाव, महाराष्ट्रमध्ये बालरोग आणि दंत चिकित्सा एकत्र उपलब्ध आहेत. आमच्या दोन्ही विभागांविषयी जाणून घ्या आणि आपली भेट ठरवा.",
+      "aboutLink": "शांतिपदविषयी जाणून घ्या",
+      "doctorsLabel": "आपली काळजी घेणारी माणसे",
+      "doctorsTitle": "आपली काळजी घेणारे डॉक्टर.",
+      "doctorsIntro": "शांतिपदच्या बालरोग तज्ज्ञ आणि दंत चिकित्सकांचा परिचय करून घ्या.",
+      "namePending": "डॉक्टरांचे नाव लवकरच जोडले जाईल",
+      "credentialsPending": "पुष्टी झाल्यानंतर शैक्षणिक पात्रता आणि भेटीच्या वेळा जोडल्या जातील.",
+      "profilePending": "परिचय लवकरच उपलब्ध होईल",
+      "photoPending": "डॉक्टरांचे छायाचित्र लवकरच येईल",
+      "faqLabel": "भेटीपूर्वी",
+      "faqTitle": "आपल्या काही प्रश्नांची उत्तरे.",
+      "visitLabel": "आपली भेट ठरवूया",
+      "visitTitle": "काळजीची पुढची सुरुवात\nएका कॉलमधून.",
+      "visitBody": "बालरोग किंवा दंत विभागाची भेट ठरवण्यासाठी रुग्णालयाशी बोला.",
+      "footerLine": "चिमुकल्यांसाठी. प्रत्येक हास्यासाठी.",
+      "footerNav": "जाणून घ्या",
+      "footerCare": "आमचे विभाग",
+      "footerContact": "आम्हाला भेटा",
+      "rights": "शांतिपद बाल व दंत रुग्णालय.",
+      "previewNote": "",
+      "aboutTitle": "आपल्या कुटुंबाच्या काळजीचे ठिकाण.",
+      "aboutIntro": "शेगावमध्ये बालरोग आणि दंत चिकित्सा, एकत्र.",
+      "aboutBody": "शांतिपद बाल व दंत रुग्णालयामध्ये दोन विशेषज्ञता आहेत: बालरोग तज्ज्ञ आणि दंत चिकित्सक. येथे आपण दोन्ही विभागांची माहिती घेऊ शकता आणि भेट ठरवू शकता.",
+      "aboutSmall": "आमचे रुग्णालय",
+      "deptChildTitle": "आपल्या लाडक्या\nचिमुकल्याच्या काळजीसाठी.",
+      "deptDentalTitle": "प्रत्येक हास्यासाठी\nथोडी काळजी.",
+      "deptChildBody": "शांतिपदच्या बालरोग तज्ज्ञांची भेट फोनवरून ठरवा.",
+      "deptDentalBody": "शांतिपदच्या दंत चिकित्सकांची भेट फोनवरून ठरवा.",
+      "deptInfoTitle": "योग्य काळजी निवडूया.",
+      "deptInfoBody": "उपलब्ध सेवा, वयोगट किंवा विशिष्ट सल्ल्यासाठी रुग्णालयाशी संपर्क साधा.",
+      "confirmedSoon": "अधिक माहितीसाठी रुग्णालयाशी संपर्क साधा.",
+      "prepareTitle": "भेटीपूर्वी",
+      "doctorPageTitle": "आपल्या डॉक्टरांना जाणून घ्या.",
+      "doctorPageBody": "शांतिपदच्या तज्ज्ञांना जाणून घ्या.",
+      "contactTitle": "आपल्याशी बोलण्याची\nआम्हाला प्रतीक्षा आहे.",
+      "contactIntro": "भेटी फोनवरून ठरवल्या जातात. उपलब्धता जाणून घेण्यासाठी आणि भेट ठरवण्यासाठी रुग्णालयाशी संपर्क साधा.",
+      "phoneLabel": "फोनवरून भेट नोंदणी",
+      "phonePending": "फोन नंबर लवकरच उपलब्ध होईल",
+      "addressLabel": "आमचा पत्ता",
+      "addressPending": "संपूर्ण पत्त्याची पुष्टी बाकी आहे",
+      "hoursLabel": "भेटीच्या वेळा",
+      "hoursPending": "वेळांची पुष्टी बाकी आहे",
+      "mapLabel": "मार्गदर्शन",
+      "mapPending": "सत्यापित पत्त्यासह नकाशाची लिंक जोडली जाईल.",
+      "bookingTitle": "फोनवरून नोंदणी",
+      "dialogTitle": "फोनवरून भेट नोंदणी",
+      "dialogBody": "रुग्णालयाचा फोन नंबर अद्याप उपलब्ध नाही. सत्यापित नंबर जोडल्यानंतर येथून कॉल करता येईल.",
+      "okay": "ठीक आहे",
+      "back": "मुख्यपृष्ठावर परत",
+      "lunch": "जेवणाची सुट्टी: दुपारी 12:00–1:00",
+      "serviceHeading": "शांतिपदमध्ये उपलब्ध सेवा",
+      "facilitiesHeading": "रुग्णालयाच्या सुविधा",
+      "certNumber": "प्रमाणपत्र",
+      "certValidity": "वैधता",
+      "viewCertificate": "प्रमाणपत्र पहा",
+      "experienceLabel": "अनुभव",
+      "registrationLabel": "नोंदणी",
+      "hoursNote": "भेट ठरवताना आपल्या डॉक्टरांची उपलब्धता निश्चित करा.",
+      "galleryHeading": "रुग्णालयाची छायाचित्रे",
+      "emptyServices": "विभागाच्या माहितीसाठी कॉल करा.",
+      "errorTitle": "रुग्णालयाची माहिती लोड झाली नाही.",
+      "errorBody": "कृपया थोड्या वेळाने पुन्हा प्रयत्न करा.",
+      "retry": "पुन्हा प्रयत्न करा",
+      "heroImageAlt": "आई आणि तिचे लहान मूल",
+      "heroImageCaption": "प्रातिनिधिक स्टॉक छायाचित्र"
+    }
+  }
+}
